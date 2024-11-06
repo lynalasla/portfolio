@@ -3,7 +3,7 @@ import Typewriter from "typewriter-effect";
 
 function Type() {
   return (
-   <div style={{ marginTop: '-30px' }}> {/* Ajustez la valeur selon vos besoins */}
+   <div style={{ marginTop: '-20px' }}> {/* Ajustez la valeur selon vos besoins */}
     <Typewriter
       options={{
         strings: [
