@@ -3,18 +3,17 @@ import Typewriter from "typewriter-effect";
 
 function Type() {
   return (
-   <div style={{ marginTop: '-20px' }}> 
     <Typewriter
       options={{
         strings: [
-          "Etudiante en Intelligence Artificielle et Science des Données",
+          "Etudiante en IA et DS",
         ],
         autoStart: true,
         loop: true,
         deleteSpeed: 90,
       }}
     />
-      </>
+      
   );
 }
 
