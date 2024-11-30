@@ -262,9 +262,10 @@ button:focus {
 
 @media (max-width: 768px) {
   .home-section {
-    background-size: 100% auto;
+    background-size: cover;
     background-position: top center;
     width: 100%;
+    height: 100vh;
   }
 }
 
