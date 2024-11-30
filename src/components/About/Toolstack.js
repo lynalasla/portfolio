@@ -113,7 +113,7 @@ function Toolstack() {
 
 const tooltipStyle = {
   position: "absolute",
-  bottom: "-30px",
+  bottom: "20px",
   left: "50%",
   transform: "translateX(-50%)",
   backgroundColor: "#333",
