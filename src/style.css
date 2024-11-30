@@ -253,9 +253,14 @@ button:focus {
   background-image: url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  background-size: cover; /* Ajouté pour couvrir toute la largeur */
   padding-bottom: 30px !important;
   padding-top: 30px !important;
+}
+@media (max-width: 768px) {
+  .home-section {
+    background-size: cover;
+    height: 100vh;
+  }
 }
 
 .home-content {
