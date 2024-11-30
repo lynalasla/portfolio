@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.jpg";
-import Home2 from "./Home2";
 import Type from "./Type";
 import About from "../About/About.js";
 import Projects from "../Projects/Projects.js";
@@ -66,7 +65,7 @@ function Home() {
           </Container>
         </Container>
         <section id="home2"></section>
-        <Home2 />
+        
       </section>
 
       <section id="about"></section>
