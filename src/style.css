@@ -256,32 +256,11 @@ button:focus {
   padding-bottom: 30px !important;
   padding-top: 30px !important;
 }
-@media (max-width: 768px) {
-  .home-section {
-    background-size: cover;
-    height: 100vh;
-  }
-}
 
 .home-content {
   padding: 9rem 0 2rem !important;
   color: #002f48;
   text-align: left;
-}
-.home-section {
-  position: relative;
-  z-index: -1;
-  background-image: url(./Assets/home-bg.jpg);
-  background-position: top center;
-  background-repeat: no-repeat;
-  padding-bottom: 30px !important;
-  padding-top: 30px !important;
-}
-@media (max-width: 768px) {
-  .home-section {
-    background-size: cover;
-    height: 100vh;
-  }
 }
 
 .heading {
