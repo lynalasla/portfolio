@@ -40,12 +40,12 @@ function Home() {
                     display: "flex",
                     justifyContent: "center",
                     alignItems: "center",
-                    width: "501px",
-                    height: "501px",
-                    borderRadius: "50%",
+                    width: "451px",
+                    height: "451px",
+                    borderRadius: "48%",
                     backgroundColor: "#021E2E",
                     padding: "0px",
-                    boxShadow: "0 23px 23px rgba(255, 102, 196, 0.5)",
+                    boxShadow: "0 10px 50px rgba(255, 102, 196, 1)",
                     position: "relative",
                     marginTop: "-10px",
                   }}
@@ -54,9 +54,9 @@ function Home() {
                     src={homeLogo}
                     alt="Lasla Lyna"
                     style={{
-                      width: "500px",
-                      height: "500px",
-                      borderRadius: "50%",
+                      width: "450px",
+                      height: "450px",
+                      borderRadius: "48%",
                       objectFit: "cover",
                     }}
                   />
