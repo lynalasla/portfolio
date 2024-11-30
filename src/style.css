@@ -248,7 +248,7 @@ button:focus {
 }
 
 .home-section {
-  background-image: url("path/to/home-bg.jpg");
+  background-image: url("./Assets/home-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
