@@ -248,17 +248,23 @@ button:focus {
 }
 
 .home-section {
-  background-image: url("./Assets/home-bg.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
+  position: relative;
+  z-index: -1;
+  background-image: url(./Assets/home-bg.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
   width: 100%;
+  height: auto;
+  padding-bottom: 30px !important;
+  padding-top: 30px !important;
 }
 
 @media (max-width: 768px) {
-  .home-about-section {
-    background-size: cover;
-    height: 100vh;
+  .home-section {
+    background-size: 100% auto;
+    background-position: top center;
+    width: 100%;
   }
 }
 
