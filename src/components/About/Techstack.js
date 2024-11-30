@@ -148,7 +148,7 @@ function Techstack() {
 
 const tooltipStyle = {
   position: "absolute",
-  bottom: "-30px",
+  bottom: "-10px",
   left: "50%",
   transform: "translateX(-50%)",
   backgroundColor: "#333",
