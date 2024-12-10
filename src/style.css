@@ -326,6 +326,10 @@ button:focus {
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
+  max-width: 100vw; 
+  overflow: hidden;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .home-about-description {
