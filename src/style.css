@@ -343,6 +343,23 @@ button:focus {
     box-sizing: border-box;
   }
 }
+@media (max-width: 768px) {
+  .home-about-section {
+    padding-bottom: 50px !important;
+    padding-top: 50px !important;
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-about-section {
+    padding-bottom: 30px !important;
+    padding-top: 30px !important;
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
 
 .home-about-description {
   color: white !important;
