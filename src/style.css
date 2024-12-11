@@ -254,9 +254,9 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-image-col {
-    margin-top: 80px !important; 
-    width: 80% !important;
-    height: 80% !important; 
+    margin-top: 100px !important; 
+    width:60% !important;
+    height: 60% !important; 
     object-fit: cover;
   }
 }
