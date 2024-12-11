@@ -254,7 +254,7 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-image-col {
-    margin-top: 40px !important; 
+    margin-top: 45px !important; 
   }
 }
 
@@ -263,7 +263,7 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-header {
-    margin-top: -20px !important; 
+    margin-top: -50px !important; 
   }
 }
 .home-section {
