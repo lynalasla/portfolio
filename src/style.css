@@ -252,6 +252,11 @@ button:focus {
     transform: rotate(0deg);
   }
 }
+@media (max-width: 767px) {
+  .home-image-col {
+    margin-top: 40px !important; /* Augmentez la valeur pour descendre davantage */
+  }
+}
 
 .home-header {
   padding-top: 80px !important;
