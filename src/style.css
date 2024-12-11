@@ -255,8 +255,8 @@ button:focus {
 @media (max-width: 767px) {
   .home-image-col {
     margin-top: 100px !important; 
-    width:60% !important;
-    height: 60% !important; 
+    width:40% !important;
+    height: 40% !important; 
     object-fit: cover;
   }
 }
@@ -328,7 +328,8 @@ button:focus {
     position: absolute !important;
   }
   .Typewriter__cursor {
-    display: none !important;
+    font-size: 1.5em !important;
+    color: #ff66c4 !important;
   }
 }
 
