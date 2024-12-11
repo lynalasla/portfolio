@@ -254,12 +254,12 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-image-col {
-    margin-top: 45px !important; 
+    padding-top: 45px !important; 
   }
 }
 
 .home-header {
-  padding-top: 80px !important;
+  padding-top: 50px !important;
 }
 @media (max-width: 767px) {
   .home-header {
