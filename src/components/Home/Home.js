@@ -51,15 +51,18 @@ function Home() {
                   }}
                 >
                   <img
-                    src={homeLogo}
-                    alt="Lasla Lyna"
-                    style={{
-                      width: "450px",
-                      height: "450px",
-                      borderRadius: "48%",
-                      objectFit: "cover",
-                    }}
-                  />
+      src={homeLogo}
+      alt="Lasla Lyna"
+      style={{
+        width: "500px",
+        height: "500px",
+        borderRadius: "50%",
+        objectFit: "cover",
+        // Ajouter une règle pour les petits écrans directement ici
+        width: window.innerWidth <= 767 ? '70%' : '500px',
+        height: window.innerWidth <= 767 ? '70%' : '500px',
+      }}
+    />
                 </div>
               </Col>
             </Row>
