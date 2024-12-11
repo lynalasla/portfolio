@@ -50,19 +50,19 @@ function Home() {
                     marginTop: "-10px",
                   }}
                 >
-                  <img
-      src={homeLogo}
-      alt="Lasla Lyna"
-      style={{
-        width: "500px",
-        height: "500px",
-        borderRadius: "50%",
-        objectFit: "cover",
-        // Ajouter une règle pour les petits écrans directement ici
-        width: window.innerWidth <= 767 ? '70%' : '500px',
-        height: window.innerWidth <= 767 ? '70%' : '500px',
-      }}
-    />
+                   <img
+                    src={homeLogo}
+                    alt="Lasla Lyna"
+                    style={{
+                      width: "500px",
+                      height: "500px",
+                      borderRadius: "50%",
+                      objectFit: "cover",
+                      // Ajouter une règle pour les petits écrans directement ici
+                      width: window.innerWidth <= 767 ? "70%" : "500px",
+                      height: window.innerWidth <= 767 ? "70%" : "500px",
+                    }}
+                  />
                 </div>
               </Col>
             </Row>
