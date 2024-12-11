@@ -247,21 +247,25 @@ button:focus {
   }
   60% {
     transform: rotate(0deg);
-  } /* Reset for the last half to pause */
+  } 
   100% {
     transform: rotate(0deg);
   }
 }
 @media (max-width: 767px) {
   .home-image-col {
-    margin-top: 55px !important; /* Augmentez la valeur pour descendre davantage */
+    margin-top: 40px !important; 
   }
 }
 
 .home-header {
   padding-top: 80px !important;
 }
-
+@media (max-width: 767px) {
+  .home-header {
+    margin-top: 10px !important; 
+  }
+}
 .home-section {
   position: relative;
   z-index: -1;
