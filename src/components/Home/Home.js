@@ -58,9 +58,6 @@ function Home() {
                       height: "500px",
                       borderRadius: "50%",
                       objectFit: "cover",
-                      // Ajouter une règle pour les petits écrans directement ici
-                      width: window.innerWidth <= 767 ? "70%" : "500px",
-                      height: window.innerWidth <= 767 ? "70%" : "500px",
                     }}
                   />
                 </div>
