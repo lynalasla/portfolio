@@ -254,7 +254,7 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-image-col {
-    margin-top: 40px !important; /* Augmentez la valeur pour descendre davantage */
+    margin-top: 45px !important; /* Augmentez la valeur pour descendre davantage */
   }
 }
 
