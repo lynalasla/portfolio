@@ -54,9 +54,9 @@ function Home() {
                     src={homeLogo}
                     alt="Lasla Lyna"
                     style={{
-                      width: "500px",
-                      height: "500px",
-                      borderRadius: "50%",
+                      width: "450px",
+                      height: "450px",
+                      borderRadius: "48%",
                       objectFit: "cover",
                     }}
                   />
