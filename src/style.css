@@ -254,7 +254,7 @@ button:focus {
 }
 @media (max-width: 767px) {
   .home-image-col {
-    padding-top: 45px !important; 
+    margin-top: 55px !important; 
   }
 }
 
