@@ -56,7 +56,7 @@ function About() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://dz.linkedin.com/in/lyna-lasla-53679b2aa"
+                  href="www.linkedin.com/in/lynalasla"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
