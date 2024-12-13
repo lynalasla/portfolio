@@ -23,6 +23,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="Ce portfolio présente une sélection de mes projets, chacun conçu pour résoudre des problèmes concrets. Les projets sont variés, incluant des analyses approfondies et des modèles prédictifs appliqués à des ensembles de données réels."
+              ghLink="https://github.com/lynalasla/portfolio"
           </Col>
 
           <Col md={4} className="project-card">
