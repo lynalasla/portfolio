@@ -19,7 +19,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="www.linkedin.com/in/lynalasla"
+                href="https://www.linkedin.com/in/lynalasla/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
