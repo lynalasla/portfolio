@@ -22,9 +22,7 @@ function Projects() {
               imgPath={porto}
               isBlog={false}
               title="Portfolio"
-              description="Ce portfolio présente une sélection de mes projets en data science, chacun conçu pour résoudre des problèmes concrets. Les projets incluent des analyses approfondies et des modèles prédictifs appliqués à des jeux de données réels."
-              ghLink="https://github.com/lynalasla/portfolio"
-            />
+              description="Ce portfolio présente une sélection de mes projets, chacun conçu pour résoudre des problèmes concrets. Les projets sont variés, incluant des analyses approfondies et des modèles prédictifs appliqués à des ensembles de données réels."
           </Col>
 
           <Col md={4} className="project-card">
@@ -57,7 +55,7 @@ function Projects() {
                fluide aux utilisateurs. La plateforme met en avant une sélection de biens actualisée, 
                permet de filtrer les propriétés selon divers critères, et facilite la prise de contact avec 
                l'agence. L'ensemble a été pensé pour répondre aux attentes des clients tout en mettant en avant
-                l'image de marque de l'agence, avec un design à la fois élégant et fonctionnel qui valorise 
+                l'image de marque de l'agence, avec un design fonctionnel qui valorise 
                 l’expérience utilisateur."
               ghLink="https://github.com/lynalasla/amlak"
             />
