@@ -11,16 +11,15 @@ function AboutCard() {
             Salut, je m'appelle <span className="purple">Lasla Lyna</span> !
             <br />
             <br />
-            Je suis actuellement étudiante en 5ème année (3ème de cycle
-            supérieur) à l'Ecole supérieure en Sciences et Technologies de
-            l'Informatique et du Numérique (ESTIN) et je me suis spécialisée en
-            IA et Science des Données.
+            Je suis actuellement étudiante en Mastère Data & IA à l’École Multimédia à Paris,
+            avec une spécialisation en Data Science, Machine Learning, intelligence artificielle et développement web.
             <br />
             <br />
-            En parallèle de mes études, j'ai veillé à effectuer des stages pour
-            renforcer mes compétences et acquérir de l'expérience dans mon
-            domaine. J'ai également suivi des formations en ligne pour
-            approfondir ma formation.
+            En parallèle de mon parcours académique, j’ai développé une expérience concrète à travers plusieurs stages
+            et une expérience en tant que Data Scientist, me permettant de renforcer mes compétences en analyse de données, 
+            modélisation, développement web et mise en place de pipelines data. J’ai également complété ma formation par 
+            des projets pratiques et des apprentissages complémentaires afin d’approfondir mes compétences techniques.
+
             <br />
           </p>
         </blockquote>
